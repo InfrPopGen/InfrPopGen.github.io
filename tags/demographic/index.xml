@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>demographic | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/tags/demographic/</link>
+      <atom:link href="http://InfrPopGen.github.io/tags/demographic/index.xml" rel="self" type="application/rss+xml" />
+    <description>demographic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Sun, 01 Jan 1995 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>demographic</title>
+      <link>http://InfrPopGen.github.io/tags/demographic/</link>
+    </image>
+    
+    <item>
+      <title>A demographic analysis of y-Neotricula aperta (Gastropoda: Pomatiopsidae) populations in Thailand and southern Laos, in relation to the transmission of schistosomiasis</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-demographic-1995/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-demographic-1995/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

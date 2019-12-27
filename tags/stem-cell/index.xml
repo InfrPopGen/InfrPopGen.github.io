@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>stem cell | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/tags/stem-cell/</link>
+      <atom:link href="http://InfrPopGen.github.io/tags/stem-cell/index.xml" rel="self" type="application/rss+xml" />
+    <description>stem cell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>stem cell</title>
+      <link>http://InfrPopGen.github.io/tags/stem-cell/</link>
+    </image>
+    
+    <item>
+      <title>iPS-Cell Technology and the Problem of Genetic Instability—Can It Ever Be Safe for Clinical Use?</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-ips-cell-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-ips-cell-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

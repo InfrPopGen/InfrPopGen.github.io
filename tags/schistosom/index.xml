@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>schistosom | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/tags/schistosom/</link>
+      <atom:link href="http://InfrPopGen.github.io/tags/schistosom/index.xml" rel="self" type="application/rss+xml" />
+    <description>schistosom</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Tue, 01 Jan 2002 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>schistosom</title>
+      <link>http://InfrPopGen.github.io/tags/schistosom/</link>
+    </image>
+    
+    <item>
+      <title>Schistosoma ovuncatum n. sp. (Digenea: Schistosomatidae) from northwest Thailand and the historical biogeography of Southeast Asian Schistosoma Weinland, 1858</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-schistosoma-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-schistosoma-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The phylogeography of Asian Schistosoma (Trematoda: Schistosomatidae)</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-phylogeography-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-phylogeography-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

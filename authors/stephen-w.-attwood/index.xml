@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen W. Attwood | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/authors/stephen-w.-attwood/</link>
+      <atom:link href="http://InfrPopGen.github.io/authors/stephen-w.-attwood/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephen W. Attwood</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>Stephen W. Attwood</title>
+      <link>http://InfrPopGen.github.io/authors/stephen-w.-attwood/</link>
+    </image>
+    
+    <item>
+      <title>iPS-Cell Technology and the Problem of Genetic Instability—Can It Ever Be Safe for Clinical Use?</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-ips-cell-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-ips-cell-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population genetic structure and geographical variation in Neotricula aperta (Gastropoda: Pomatiopsidae), the snail intermediate host of Schistosoma mekongi (Digenea: Schistosomatidae)</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-population-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-population-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An investigation into the potential effects of infrapopulation structure and other sources of sampling error, on population genetic studies of the transmission of Schistosoma japonicum (Trematoda: Digenea)</title>
+      <link>http://InfrPopGen.github.io/publication/huo-investigation-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/huo-investigation-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Phylogenetic Studies on Schistosoma japonicum and Its Snail Intermediate Host Oncomelania hupensis: Origins, Dispersal and Coevolution</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-comparative-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-comparative-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malacological and parasitological surveys along the Xe Bangfai and its tributaries in Khammouane Province, Lao PDR</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-malacological-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-malacological-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Update on the distribution and phylogenetics of Biomphalaria (Gastropoda: Planorbidae) populations in Guangdong Province, China</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-update-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-update-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A phylogeny for the pomatiopsidae (Gastropoda: Rissooidea): a resource for taxonomic, parasitological and biodiversity studies</title>
+      <link>http://InfrPopGen.github.io/publication/liu-phylogeny-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/liu-phylogeny-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Population Growth Trend Analysis for Neotricula aperta, the Snail Intermediate Host of Schistosoma mekongi, after Construction of the Pak-Mun Dam</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-population-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-population-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public health: Use snail ecology to assess dam impact</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-public-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-public-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

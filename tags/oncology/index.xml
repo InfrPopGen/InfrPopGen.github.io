@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>oncology | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/tags/oncology/</link>
+      <atom:link href="http://InfrPopGen.github.io/tags/oncology/index.xml" rel="self" type="application/rss+xml" />
+    <description>oncology</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Sat, 21 Dec 2019 18:18:07 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>oncology</title>
+      <link>http://InfrPopGen.github.io/tags/oncology/</link>
+    </image>
+    
+    <item>
+      <title>Communicative Cancers Grow More Slowly</title>
+      <link>http://InfrPopGen.github.io/blog/chatty/</link>
+      <pubDate>Sat, 21 Dec 2019 18:18:07 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/blog/chatty/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://InfrPopGen.github.io/img/ChattyCancers.png&#34; &gt;
+&lt;img src=&#34;http://InfrPopGen.github.io/img/ChattyCancers.png&#34; alt=&#34;Cellular interactions constrain tumour growth&#34; width=&#34;200&#34; height=&#34;200&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The study found that the more cancer cells in a tumour communicate with one another the more similar or complementary and co-dependent they become in terms of the molecular pathways they use and resources they exploit in order to feed and grow. The effect of this coupling is that the cells gradually fall into the same niche, and this has the effect of increasing cell to cell competition (because now most of the cells are chasing the same narrow range of resources). The result of this increased competition is slower growth of the tumour compared with the initially diverse tumour cell population.&lt;/p&gt;
+&lt;p&gt;The mathematical models developed by the authors suggest that cancers that are growing exponetially are unlikely to respond to therapies targeting cell–cell interactions, whilst those that show increased coupling over time are likely to be more sensitive to such therapies. The authors emphasised that the therapeutic potential of the models has not been tested in clinical trials and are currently only theoretical; however, the findings could be useful in designing therapies that target functional coupling of cells to control tumor growth.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A practical guide to estimating phylogenies for cancer</title>
+      <link>http://InfrPopGen.github.io/talk/phylogenies4cancer/</link>
+      <pubDate>Wed, 29 Apr 2015 17:16:55 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/talk/phylogenies4cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer Phylodynamics</title>
+      <link>http://InfrPopGen.github.io/talk/cancerphylodynamics/</link>
+      <pubDate>Thu, 06 Nov 2014 13:30:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/talk/cancerphylodynamics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plos | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/tags/plos/</link>
+      <atom:link href="http://InfrPopGen.github.io/tags/plos/index.xml" rel="self" type="application/rss+xml" />
+    <description>plos</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>plos</title>
+      <link>http://InfrPopGen.github.io/tags/plos/</link>
+    </image>
+    
+    <item>
+      <title>A Population Growth Trend Analysis for Neotricula aperta, the Snail Intermediate Host of Schistosoma mekongi, after Construction of the Pak-Mun Dam</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-population-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-population-2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

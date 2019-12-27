@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molecular Systematics | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/tags/molecular-systematics/</link>
+      <atom:link href="http://InfrPopGen.github.io/tags/molecular-systematics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Molecular Systematics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Mon, 17 Jul 2017 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>Molecular Systematics</title>
+      <link>http://InfrPopGen.github.io/tags/molecular-systematics/</link>
+    </image>
+    
+    <item>
+      <title>An Update on Biomphalaria in China</title>
+      <link>http://InfrPopGen.github.io/talk/biomphalaria/</link>
+      <pubDate>Mon, 17 Jul 2017 13:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/talk/biomphalaria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-evolution in schistosomiasis</title>
+      <link>http://InfrPopGen.github.io/talk/coevolution01/</link>
+      <pubDate>Sat, 19 Sep 2015 14:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/talk/coevolution01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A practical guide to estimating phylogenies for cancer</title>
+      <link>http://InfrPopGen.github.io/talk/phylogenies4cancer/</link>
+      <pubDate>Wed, 29 Apr 2015 17:16:55 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/talk/phylogenies4cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer Phylodynamics</title>
+      <link>http://InfrPopGen.github.io/talk/cancerphylodynamics/</link>
+      <pubDate>Thu, 06 Nov 2014 13:30:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/talk/cancerphylodynamics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

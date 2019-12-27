@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sampling bias | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/tags/sampling-bias/</link>
+      <atom:link href="http://InfrPopGen.github.io/tags/sampling-bias/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sampling bias</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>Sampling bias</title>
+      <link>http://InfrPopGen.github.io/tags/sampling-bias/</link>
+    </image>
+    
+    <item>
+      <title>An investigation into the potential effects of infrapopulation structure and other sources of sampling error, on population genetic studies of the transmission of Schistosoma japonicum (Trematoda: Digenea)</title>
+      <link>http://InfrPopGen.github.io/publication/huo-investigation-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/huo-investigation-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

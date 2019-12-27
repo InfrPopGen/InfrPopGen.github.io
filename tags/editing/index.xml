@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>editing | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/tags/editing/</link>
+      <atom:link href="http://InfrPopGen.github.io/tags/editing/index.xml" rel="self" type="application/rss+xml" />
+    <description>editing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Sat, 21 Dec 2019 20:22:42 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>editing</title>
+      <link>http://InfrPopGen.github.io/tags/editing/</link>
+    </image>
+    
+    <item>
+      <title>Publons</title>
+      <link>http://InfrPopGen.github.io/files/publons/</link>
+      <pubDate>Sat, 21 Dec 2019 20:22:42 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/files/publons/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;publons.pdf&#34;&gt;Download my recent Publons record file&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

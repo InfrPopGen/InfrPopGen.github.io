@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/</link>
+      <atom:link href="http://InfrPopGen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Phylodynamics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Sat, 21 Dec 2019 20:22:42 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>Phylodynamics</title>
+      <link>http://InfrPopGen.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Page 1</title>
+      <link>http://InfrPopGen.github.io/courses/example/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>http://InfrPopGen.github.io/courses/example/example1/</guid>
+      <description>&lt;p&gt;In this tutorial, I&#39;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-2&#34;&gt;Tip 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Page 2</title>
+      <link>http://InfrPopGen.github.io/courses/example/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>http://InfrPopGen.github.io/courses/example/example2/</guid>
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
+&lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+&lt;h2 id=&#34;tip-4&#34;&gt;Tip 4&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Publons</title>
+      <link>http://InfrPopGen.github.io/files/publons/</link>
+      <pubDate>Sat, 21 Dec 2019 20:22:42 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/files/publons/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;publons.pdf&#34;&gt;Download my recent Publons record file&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Communicative Cancers Grow More Slowly</title>
+      <link>http://InfrPopGen.github.io/blog/chatty/</link>
+      <pubDate>Sat, 21 Dec 2019 18:18:07 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/blog/chatty/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://InfrPopGen.github.io/img/ChattyCancers.png&#34; &gt;
+&lt;img src=&#34;http://InfrPopGen.github.io/img/ChattyCancers.png&#34; alt=&#34;Cellular interactions constrain tumour growth&#34; width=&#34;200&#34; height=&#34;200&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;The study found that the more cancer cells in a tumour communicate with one another the more similar or complementary and co-dependent they become in terms of the molecular pathways they use and resources they exploit in order to feed and grow. The effect of this coupling is that the cells gradually fall into the same niche, and this has the effect of increasing cell to cell competition (because now most of the cells are chasing the same narrow range of resources). The result of this increased competition is slower growth of the tumour compared with the initially diverse tumour cell population.&lt;/p&gt;
+&lt;p&gt;The mathematical models developed by the authors suggest that cancers that are growing exponetially are unlikely to respond to therapies targeting cell–cell interactions, whilst those that show increased coupling over time are likely to be more sensitive to such therapies. The authors emphasised that the therapeutic potential of the models has not been tested in clinical trials and are currently only theoretical; however, the findings could be useful in designing therapies that target functional coupling of cells to control tumor growth.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Three Blind Mice See Again!</title>
+      <link>http://InfrPopGen.github.io/blog/3mice/</link>
+      <pubDate>Sat, 21 Dec 2019 17:58:37 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/blog/3mice/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://InfrPopGen.github.io/img/blindmice.png&#34; &gt;
+&lt;img src=&#34;http://InfrPopGen.github.io/img/blindmice.png&#34; alt=&#34;Blind Mice See Again&#34; width=&#34;200&#34; height=&#34;200&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In blog post &lt;em&gt;&amp;ldquo;An Eye for Nature&amp;rdquo;&lt;/em&gt; we looked at artificial retina solutions for degenerative conditions like AMD that are common cause of blindness in humans. As a follow up I would like to mention a &lt;a href=&#34;https://www.nature.com/articles/s41467-019-09124-x&#34;&gt;2019 paper&lt;/a&gt; which offers an amazingly simple potential treatment for such retinal damge.&lt;/p&gt;
+&lt;p&gt;The authors noted that, whilst the &lt;a href=&#34;https://www.chemistryworld.com/podcasts/opsins/6108.article&#34;&gt;opsins&lt;/a&gt;, the protein part of light-sensitive receptors found in the &lt;a href=&#34;https://www.easybiologyclass.com/difference-between-rod-cells-and-cone-cells-comparison-table&#34;&gt;rod and cone cells&lt;/a&gt; of the human retina, are normally embedded in the molecular complex of the &lt;a href=&#34;https://en.wikipedia.org/wiki/G_protein-coupled_receptor&#34;&gt;G-protein-coupled-receptor signalling cascade&lt;/a&gt; that amplifies and moderates (through feedback loops) the signal from the photoreceptive pigments, these complexes are common to many kinds of cells not just rods and cones. They were also aware that although the rods and cones are lost in many retinal degenerative diseases, the main nerve cells of the retina, the &lt;a href=&#34;https://en.wikipedia.org/wiki/Retinal_ganglion_cell&#34;&gt;retinal ganglion cells&lt;/a&gt;, are not lost and remain active albeit insensitive to light. Putting these two facts together led them to ask the question, if we put the genes coding for a retinal photoreceptor into retinal ganglion cells might the opsins automatically integrate into the ganglions&amp;rsquo; G-protein signalling complexes, without the need to somehow transplant the entire opsin-signalling complex? To address this they used an &lt;a href=&#34;https://en.wikipedia.org/wiki/Adeno-associated_virus&#34;&gt;Adeno-Associated Virus&lt;/a&gt; (AAV) to carry the gene coding for green cone cell opsin into the genome of the retinal ganglion cells of blind mice. Although many neuroscientists would have said that this simple approach should not work, the experiment did in fact work. The blind mice were not only able to pass several of the tests used in humans to test eyesight (and were almost indistiguishable from normal mice in such tests), but their transformed ganglia even adjusted the photo-response according to the light level, turning the signal up in low light and down in bright light!&lt;/p&gt;
+&lt;p&gt;Although the findings appear miraculous, there is some way to go before this technique can be used to treat people. Although the AAV used specifically infects retinal ganglion cells, and so can be precisely targeted, there are issues of &lt;a href=&#34;https://en.wikipedia.org/wiki/Insertional_mutagenesis&#34;&gt;insertional mutagenesis&lt;/a&gt; because the viral genome can insert itself into the cells&amp;rsquo; genomes at random positions (this can potentially cause cancer or loss of essential gene function—for more on this see &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5758940/&#34;&gt;this paper&lt;/a&gt;). The authors note that because the human eye contains thousands of times more ganglion cells than that of the mouse, much larger doses of AAV would be needed to treat a human. Nevertheless, AAV vectors have been FDA approved for use in human degenerative retinal conditions in cases where there is alternative treatment. The treatment might not be suitable for treatment of all retinal degenerative diseases because the retinal ganglion cells do not survive in all such conditions. In &lt;em&gt;[retinitis pigmentosa]&lt;/em&gt;(&lt;a href=&#34;https://www.rnib.org.uk/eye-health/eye-conditions/retinitis-pigmentosa&#34;&gt;https://www.rnib.org.uk/eye-health/eye-conditions/retinitis-pigmentosa&lt;/a&gt;), the target disease of these authors, 30% to 75% of these cells survive relative to normal eyes (for details see &lt;a href=&#34;https://iovs.arvojournals.org/article.aspx?articleid=2162046&#34;&gt;this paper&lt;/a&gt;, whereas in wet AMD over half of the cells are lost. In dry AMD the approach is most promising as cell survival in this case is as good as in normal eyes (for more see &lt;a href=&#34;https://iovs.arvojournals.org/article.aspx?articleid=2123592&#34;&gt;this paper&lt;/a&gt;); however, we need to consider that these cells are also lost with ageing and the conditions to be treated are mostly those of old age. Nevertheless, the finding has great potential in the treatment of retinal degenerative disease.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Eye for Nature</title>
+      <link>http://InfrPopGen.github.io/blog/eye4nature/</link>
+      <pubDate>Tue, 10 Dec 2019 15:38:48 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/blog/eye4nature/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://InfrPopGen.github.io/img/softretina.jpg&#34; &gt;
+&lt;img src=&#34;http://InfrPopGen.github.io/img/softretina.jpg&#34; alt=&#34;Soft tissue synthetic retina&#34; width=&#34;200&#34; height=&#34;200&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Retinal degenerative disorders&lt;/strong&gt;, such as Age-Related Macular Degeneration (&lt;a href=&#34;https://www.macularsociety.org/age-related-macular-degeneration&#34;&gt;AMD&lt;/a&gt;), affect millions of people around the world. In the UK alone, AMD is the main cause of loss of sight, affecting over 600,000 people. In all of these disorders, the photoreceptor cells lining the retina at the back of the eye lose function, which leads to the loss of sight. Available treatments are at best capable of only slowing the degeneration in some individuals. The devastating impact of these disorders on human wellbeing and the lack of a cure have prompted researchers to seek radical solutions to the problem. The idea they came up with was to replace the damaged retina with an artificial one, and the development of such ‘bionic’ eyes has exploded into a wide range of devices and systems. The US Department of Energy even ran its own &lt;a href=&#34;https://science.energy.gov/ber/research/bssd/artificial-retina/&#34;&gt;Artificial Retina Project&lt;/a&gt; leading to the first clinical trial &lt;a href=&#34;https://www.2-sight.com/history-en.html&#34;&gt;Argus I&lt;/a&gt; in 2002 in which six patients received ‘bionic’ eye implants. By 2006, trials of the &lt;a href=&#34;https://www.artificialretina.energy.gov/about.shtml&#34;&gt;Argos II&lt;/a&gt; device had been carried out in 30 patients across Europe and the United States. By 2011 the device was approved for clinical use in Europe and by 2013 70 people had received these implants. Unfortunately, these retinal prosthetics use arrays of electrodes or photodiodes to convey small pulses of electricity to mimic the action of the lost retinal cells by stimulating the nerves of the retina; they are therefore limited by the density of photoreceptors and by the weight and bulk of the materials used. Consequently, these implants generate very low resolution images and are of benefit only to those with extensive sight loss.&lt;/p&gt;
+&lt;p&gt;Fortunately, a team at the University of Oxford’s &lt;a href=&#34;http://research.chem.ox.ac.uk/hagan-bayley.aspx&#34;&gt;Department of Chemistry&lt;/a&gt;, and led by Dphil student &lt;a href=&#34;http://bayley.chem.ox.ac.uk/vrestreposchild/&#34;&gt;Vanessa Restrepo-Schild&lt;/a&gt; stepped in with an innovative solution to many of the problems faced by these ‘digital camera’ style implants. Restrepo-Schild realised that the scarring and inflammation caused by such devices, which limited their utility, could be avoided by building a retina out of biological materials―using only materials that occur naturally in the eye. Consequently she set about building a photosensitive array similar to that of the retina from materials normally used in cell culture. The resulting implant would be not only less inflammatory, but also more soft and flexible to mimic better the original retina. Vanessa Restrepo-Schild realised that the &lt;a href=&#34;https://www.sciencealert.com/this-stretchy-drug-delivering-gel-could-be-the-band-aid-of-the-future&#34;&gt;hydrogels&lt;/a&gt; normally used in the laboratory had the right strength and flexibility for the job, but the team developed their own tailored gel for the purpose.&lt;/p&gt;
+&lt;p&gt;To emulate the light response function of the retina, they developed what they called ‘synthetic cells’, which were produced by arranging water droplets on the hydrogel in a lipid-containing oil. A lipid bilayer then formed naturally around each droplet, creating a ‘synthetic cell’. The cells were made photosensitive by adding the light-driven proton pump, &lt;a href=&#34;https://en.wikipedia.org/wiki/Bacteriorhodopsin&#34;&gt;bacteriorhodopsin&lt;/a&gt;, to the water droplets. In addition to flexibility and compatibility, the tiny water droplets can achieve arrays with greater pixel density than the ‘digital camera’ style devices. The approach is particularly neat because, as Restrepo-Schild points out, their synthetic retina already speaks the same language as the underlying nerve cells, and so should generate electrical impulses exactly as the real retina would. The impulses, when passed to the brain, are likely to be interpreted more readily as natural sight. Restrepo-Schild’s next step is to create, in fact print on their lab’s bespoke 3D printer, a 3D version of the device and observe how it communicates with nerve cells in tissue culture. The team is confident that they will soon have a system able to not only recognise colours, but also shapes and patterns, prior to preclinical testing and then clinical trials.&lt;/p&gt;
+&lt;p&gt;Restrepo-Schild cites her childhood fascination with the difference between the living and the machine as the source of her inspiration. She has long been pondering the idea of using parts of our own living bodies in devices that would not themselves be living, but would function as in vivo. We at Bang! are thankful that her childhood interests never faded, and rather proud that this potentially life changing research was done here, in Oxford.&lt;/p&gt;
+&lt;p&gt;Vanessa Restrepo-Schild is a student in the laboratory of Professor Hagan Bayley and their original research paper can be found here: &lt;a href=&#34;https://www.nature.com/articles/srep46585&#34;&gt;&lt;a href=&#34;http://www.nature.com/articles/srep46585&#34;&gt;www.nature.com/articles/srep46585&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing technical content in Academic</title>
+      <link>http://InfrPopGen.github.io/post/writing-technical-content/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/post/writing-technical-content/</guid>
+      <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;On this page, you&#39;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
+
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+
+&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+
+&lt;p&gt;Academic supports a Markdown extension for highlighting code syntax. You can enable this feature by toggling the &lt;code&gt;highlight&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```python
+import pandas as pd
+data = pd.read_csv(&#34;data.csv&#34;)
+data.head()
+```&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; pandas &lt;span style=&#34;color:#f92672&#34;&gt;as&lt;/span&gt; pd
+data &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; pd&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;read_csv(&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;data.csv&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;)
+data&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head()&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3 id=&#34;math&#34;&gt;Math&lt;/h3&gt;
+
+&lt;p&gt;Academic supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the &lt;code&gt;math&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file and adding &lt;code&gt;markup: mmark&lt;/code&gt; to your page front matter.&lt;/p&gt;
+
+&lt;p&gt;To render &lt;em&gt;inline&lt;/em&gt; or &lt;em&gt;block&lt;/em&gt; math, wrap your LaTeX math with &lt;code&gt;$$...$$&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Example &lt;strong&gt;math block&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;$$&lt;/span&gt;\gamma_{n} &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; \frac{ 
+\left | \left &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;\mathbf x_{n} &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; \mathbf x_{n&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;} \right &lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt;^T 
+\left &lt;span style=&#34;color:#f92672&#34;&gt;[&lt;/span&gt;\nabla F &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;\mathbf x_{n}&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; \nabla F &lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;\mathbf x_{n&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;}&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; \right &lt;span style=&#34;color:#f92672&#34;&gt;]&lt;/span&gt; \right |}
+{\left \|\nabla F&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;\mathbf{x}_{n}&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; \nabla F&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;\mathbf{x}_{n&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;}&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; \right \|^&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;}&lt;span style=&#34;color:#e6db74&#34;&gt;$$&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}\]&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;Example &lt;strong&gt;inline math&lt;/strong&gt; &lt;code&gt;$$\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2$$&lt;/code&gt; renders as &lt;span  class=&#34;math&#34;&gt;\(\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2\)&lt;/span&gt; .&lt;/p&gt;
+
+&lt;p&gt;Example &lt;strong&gt;multi-line math&lt;/strong&gt; using the &lt;code&gt;\\&lt;/code&gt; math linebreak:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-tex&#34; data-lang=&#34;tex&#34;&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;$$&lt;/span&gt;f&lt;span style=&#34;color:#f92672&#34;&gt;(&lt;/span&gt;k;p_&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;^&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;)&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; \begin{cases} p_&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;^&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; &amp;amp; \text{if }k&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, \\
+&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;p_&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;^&lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; &amp;amp; \text {if }k&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;.\end{cases}&lt;span style=&#34;color:#e6db74&#34;&gt;$$&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;p&gt;&lt;span  class=&#34;math&#34;&gt;\[f(k;p_0^*) = \begin{cases} p_0^* &amp; \text{if }k=1, \\
+1-p_0^* &amp; \text {if }k=0.\end{cases}\]&lt;/span&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;diagrams&#34;&gt;Diagrams&lt;/h3&gt;
+
+&lt;p&gt;Academic supports a Markdown extension for diagrams. You can enable this feature by toggling the &lt;code&gt;diagram&lt;/code&gt; option in your &lt;code&gt;config/_default/params.toml&lt;/code&gt; file or by adding &lt;code&gt;diagram: true&lt;/code&gt; to your page front matter.&lt;/p&gt;
+
+&lt;p&gt;An example &lt;strong&gt;flowchart&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+graph TD;
+  A--&gt;B;
+  A--&gt;C;
+  B--&gt;D;
+  C--&gt;D;
+```&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;graph TD;
+  A--&gt;B;
+  A--&gt;C;
+  B--&gt;D;
+  C--&gt;D;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;sequence diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+sequenceDiagram
+  participant Alice
+  participant Bob
+  Alice-&gt;John: Hello John, how are you?
+  loop Healthcheck
+      John-&gt;John: Fight against hypochondria
+  end
+  Note right of John: Rational thoughts &lt;br/&gt;prevail...
+  John--&gt;Alice: Great!
+  John-&gt;Bob: How about you?
+  Bob--&gt;John: Jolly good!
+```&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;sequenceDiagram
+  participant Alice
+  participant Bob
+  Alice-&gt;John: Hello John, how are you?
+  loop Healthcheck
+      John-&gt;John: Fight against hypochondria
+  end
+  Note right of John: Rational thoughts &lt;br/&gt;prevail...
+  John--&gt;Alice: Great!
+  John-&gt;Bob: How about you?
+  Bob--&gt;John: Jolly good!&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;An example &lt;strong&gt;Gantt diagram&lt;/strong&gt;:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;```mermaid
+gantt
+  dateFormat  YYYY-MM-DD
+  section Section
+  A task           :a1, 2014-01-01, 30d
+  Another task     :after a1  , 20d
+  section Another
+  Task in sec      :2014-01-12  , 12d
+  another task      : 24d
+```&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-mermaid&#34; data-lang=&#34;mermaid&#34;&gt;gantt
+  dateFormat  YYYY-MM-DD
+  section Section
+  A task           :a1, 2014-01-01, 30d
+  Another task     :after a1  , 20d
+  section Another
+  Task in sec      :2014-01-12  , 12d
+  another task      : 24d&lt;/code&gt;&lt;/pre&gt;
+&lt;h3 id=&#34;todo-lists&#34;&gt;Todo lists&lt;/h3&gt;
+
+&lt;p&gt;You can even write your todo lists in Academic too:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;- &lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;[x]&lt;/span&gt; Write math example
+&lt;span style=&#34;color:#66d9ef&#34;&gt;- &lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;[x]&lt;/span&gt; Write diagram example
+- [ ] Do something else&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;&#34; disabled=&#34;&#34;&gt; Write math example&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; checked=&#34;&#34; disabled=&#34;&#34;&gt; Write diagram example&lt;/li&gt;
+&lt;li&gt;&lt;input type=&#34;checkbox&#34; disabled=&#34;&#34;&gt; Do something else&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;tables&#34;&gt;Tables&lt;/h3&gt;
+
+&lt;p&gt;Represent your data in tables:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;First Header&lt;/th&gt;
+&lt;th&gt;Second Header&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;td&gt;Content Cell&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&#34;asides&#34;&gt;Asides&lt;/h3&gt;
+
+&lt;p&gt;Academic supports a Markdown extension for asides, also referred to as &lt;em&gt;notices&lt;/em&gt; or &lt;em&gt;hints&lt;/em&gt;. By prefixing a paragraph with &lt;code&gt;A&amp;gt;&lt;/code&gt;, it will render as an aside. You can enable this feature by adding &lt;code&gt;markup: mmark&lt;/code&gt; to your page front matter, or alternatively using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/#alerts&#34;&gt;&lt;em&gt;Alert&lt;/em&gt; shortcode&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;A&amp;gt; A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+
+&lt;aside&gt;
+&lt;p&gt;A Markdown aside is useful for displaying notices, hints, or definitions to your readers.&lt;/p&gt;
+&lt;/aside&gt;
+
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>iPS-Cell Technology and the Problem of Genetic Instability—Can It Ever Be Safe for Clinical Use?</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-ips-cell-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-ips-cell-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Display Jupyter Notebooks with Academic</title>
+      <link>http://InfrPopGen.github.io/post/jupyter/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/post/jupyter/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#f92672&#34;&gt;from&lt;/span&gt; IPython.core.display &lt;span style=&#34;color:#f92672&#34;&gt;import&lt;/span&gt; Image
+Image(&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;./index_1_0.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;print&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Welcome to Academic!&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;Welcome to Academic!
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&#34;install-python-and-jupyterlab&#34;&gt;Install Python and JupyterLab&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.anaconda.com/distribution/#download-section&#34;&gt;Install Anaconda&lt;/a&gt; which includes Python 3 and JupyterLab.&lt;/p&gt;
+&lt;p&gt;Alternatively, install JupyterLab with &lt;code&gt;pip3 install jupyterlab&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;create-or-upload-a-jupyter-notebook&#34;&gt;Create or upload a Jupyter notebook&lt;/h2&gt;
+&lt;p&gt;Run the following commands in your Terminal, substituting &lt;code&gt;&amp;lt;MY-WEBSITE-FOLDER&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;SHORT-POST-TITLE&amp;gt;&lt;/code&gt; with the file path to your Academic website folder and a short title for your blog post (use hyphens instead of spaces), respectively:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;mkdir -p &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+cd &amp;lt;MY-WEBSITE-FOLDER&amp;gt;/content/post/&amp;lt;SHORT-POST-TITLE&amp;gt;/
+jupyter lab index.ipynb
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;The &lt;code&gt;jupyter&lt;/code&gt; command above will launch the JupyterLab editor, allowing us to add Academic metadata and write the content.&lt;/p&gt;
+&lt;h2 id=&#34;edit-your-post-metadata&#34;&gt;Edit your post metadata&lt;/h2&gt;
+&lt;p&gt;The first cell of your Jupter notebook will contain your post metadata (&lt;a href=&#34;https://sourcethemes.com/academic/docs/front-matter/&#34;&gt;front matter&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;In Jupter, choose &lt;em&gt;Markdown&lt;/em&gt; as the type of the first cell and wrap your Academic metadata in three dashes, indicating that it is YAML front matter:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;---
+title: My post&#39;s title
+date: 2019-09-01
+
+# Put any other Academic metadata here...
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Edit the metadata of your post, using the &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content&#34;&gt;documentation&lt;/a&gt; as a guide to the available options.&lt;/p&gt;
+&lt;p&gt;To set a &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#featured-image&#34;&gt;featured image&lt;/a&gt;, place an image named &lt;code&gt;featured&lt;/code&gt; into your post&#39;s folder.&lt;/p&gt;
+&lt;p&gt;For other tips, such as using math, see the guide on &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;writing content with Academic&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;convert-notebook-to-markdown&#34;&gt;Convert notebook to Markdown&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;jupyter nbconvert index.ipynb --to markdown --NbConvertApp.output_files_dir&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;example&#34;&gt;Example&lt;/h2&gt;
+&lt;p&gt;This post was created with Jupyter. The orginal files can be found at &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&#34;&gt;https://github.com/gcushen/hugo-academic/tree/master/exampleSite/content/post/jupyter&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>http://InfrPopGen.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;porridge &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;blueberry&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;
+&lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; porridge &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;blueberry&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;:
+    &lt;span style=&#34;color:#66d9ef&#34;&gt;print&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;Eating...&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;&lt;/span&gt;)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;
+One
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;strong&gt;Two&lt;/strong&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+Three
+&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;{{% speaker_note %}}
+&lt;span style=&#34;color:#66d9ef&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;span style=&#34;color:#66d9ef&#34;&gt;-&lt;/span&gt; Press &lt;span style=&#34;color:#e6db74&#34;&gt;`S`&lt;/span&gt; key to view
+{{% /speaker_note %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/img/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;{{&amp;lt; slide background-image=&amp;#34;/img/boards.jpg&amp;#34; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;#34;#0000FF&amp;#34; &amp;gt;}}
+{{&amp;lt; slide class=&amp;#34;my-style&amp;#34; &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&#39;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
+.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h2&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;,&lt;/span&gt;
+.&lt;span style=&#34;color:#a6e22e&#34;&gt;reveal&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;h3&lt;/span&gt; {
+  &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;navy&lt;/span&gt;;
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Population genetic structure and geographical variation in Neotricula aperta (Gastropoda: Pomatiopsidae), the snail intermediate host of Schistosoma mekongi (Digenea: Schistosomatidae)</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-population-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-population-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Strategy for Population Genetic Analysis</title>
+      <link>http://InfrPopGen.github.io/talk/spatialpopgen/</link>
+      <pubDate>Wed, 12 Dec 2018 14:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/talk/spatialpopgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Update on Biomphalaria in China</title>
+      <link>http://InfrPopGen.github.io/talk/biomphalaria/</link>
+      <pubDate>Mon, 17 Jul 2017 13:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/talk/biomphalaria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>External Project</title>
+      <link>http://InfrPopGen.github.io/project/external-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internal Project</title>
+      <link>http://InfrPopGen.github.io/project/internal-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/project/internal-project/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic: the website builder for Hugo</title>
+      <link>http://InfrPopGen.github.io/post/getting-started/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/post/getting-started/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&#39;ll get in less than 10 minutes, or &lt;a href=&#34;https://sourcethemes.com/academic/#expo&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;#install&#34;&gt;&lt;strong&gt;Get Started&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34;&gt;View the &lt;strong&gt;documentation&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discourse.gohugo.io&#34;&gt;&lt;strong&gt;Ask a question&lt;/strong&gt; on the forum&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👥 &lt;a href=&#34;https://spectrum.chat/academic&#34;&gt;Chat with the &lt;strong&gt;community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/source_themes&#34;&gt;@source_themes&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithAcademic&amp;amp;src=typd&#34;&gt;#MadeWithAcademic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating?&lt;/strong&gt; View the &lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34;&gt;Update Guide&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;❤ &lt;strong&gt;Support development&lt;/strong&gt; of Academic:
+&lt;ul&gt;
+&lt;li&gt;☕️ &lt;a href=&#34;https://paypal.me/cushen&#34;&gt;&lt;strong&gt;Donate a coffee&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💵 &lt;a href=&#34;https://www.patreon.com/cushen&#34;&gt;Become a backer on &lt;strong&gt;Patreon&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🖼️ &lt;a href=&#34;https://www.redbubble.com/people/neutreno/works/34387919-academic&#34;&gt;Decorate your laptop or journal with an Academic &lt;strong&gt;sticker&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👕 &lt;a href=&#34;https://academic.threadless.com/&#34;&gt;Wear the &lt;strong&gt;T-shirt&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;👩‍💻 &lt;a href=&#34;https://sourcethemes.com/academic/docs/contribute/&#34;&gt;&lt;strong&gt;Contribute&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; data-caption=&#34;Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34;&gt;
+&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Academic is mobile first with a responsive design to ensure that your site looks stunning on every device.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Key features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://sourcethemes.com/academic/docs/page-builder/&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://sourcethemes.com/academic/docs/jupyter/&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 15+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Academic comes with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can  choose their preferred mode - click the sun/moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/themes/&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully &lt;a href=&#34;https://sourcethemes.com/academic/docs/customization/#custom-theme&#34;&gt;customizable&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-admin&#34;&gt;Academic Admin&lt;/a&gt;:&lt;/strong&gt; An admin tool to import publications from BibTeX or import assets for an offline site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-scripts&#34;&gt;Academic Scripts&lt;/a&gt;:&lt;/strong&gt; Scripts to help migrate content to new versions of Academic&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
+&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-web-browser&#34;&gt;&lt;strong&gt;one-click install using your web browser (recommended)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-git&#34;&gt;install on your computer using &lt;strong&gt;Git&lt;/strong&gt; with the Command Prompt/Terminal app&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-zip&#34;&gt;install on your computer by downloading the &lt;strong&gt;ZIP files&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34;&gt;install on your computer with &lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Then &lt;a href=&#34;https://sourcethemes.com/academic/docs/get-started/&#34;&gt;personalize and deploy your new site&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34;&gt;View the Update Guide&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34;&gt;Github&lt;/a&gt; to help keep track of &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34;&gt;updates&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An investigation into the potential effects of infrapopulation structure and other sources of sampling error, on population genetic studies of the transmission of Schistosoma japonicum (Trematoda: Digenea)</title>
+      <link>http://InfrPopGen.github.io/publication/huo-investigation-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/huo-investigation-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-evolution in schistosomiasis</title>
+      <link>http://InfrPopGen.github.io/talk/coevolution01/</link>
+      <pubDate>Sat, 19 Sep 2015 14:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/talk/coevolution01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparative Phylogenetic Studies on Schistosoma japonicum and Its Snail Intermediate Host Oncomelania hupensis: Origins, Dispersal and Coevolution</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-comparative-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-comparative-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A practical guide to estimating phylogenies for cancer</title>
+      <link>http://InfrPopGen.github.io/talk/phylogenies4cancer/</link>
+      <pubDate>Wed, 29 Apr 2015 17:16:55 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/talk/phylogenies4cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malacological and parasitological surveys along the Xe Bangfai and its tributaries in Khammouane Province, Lao PDR</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-malacological-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-malacological-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Triculinae: remarkable freshwater snail biodiversity - remarkably neglected</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-triculinae-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-triculinae-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Update on the distribution and phylogenetics of Biomphalaria (Gastropoda: Planorbidae) populations in Guangdong Province, China</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-update-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-update-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer Phylodynamics</title>
+      <link>http://InfrPopGen.github.io/talk/cancerphylodynamics/</link>
+      <pubDate>Thu, 06 Nov 2014 13:30:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/talk/cancerphylodynamics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A phylogeny for the pomatiopsidae (Gastropoda: Rissooidea): a resource for taxonomic, parasitological and biodiversity studies</title>
+      <link>http://InfrPopGen.github.io/publication/liu-phylogeny-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/liu-phylogeny-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Population Growth Trend Analysis for Neotricula aperta, the Snail Intermediate Host of Schistosoma mekongi, after Construction of the Pak-Mun Dam</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-population-2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-population-2013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Observations on Neotricula aperta (Gastropoda: Pomatiopsidae) population densities in Thailand and central Laos: implications for the spread of Mekong schistosomiasis</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-observations-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-observations-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public health: Use snail ecology to assess dam impact</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-public-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-public-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A review of parasitic zoonoses in a changing Southeast Asia</title>
+      <link>http://InfrPopGen.github.io/publication/conlan-review-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/conlan-review-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studies on the parasitology, phylogeography and the evolution of host-parasite interactions for the snail intermediate hosts of medically important trematode genera in Southeast Asia</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-studies-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-studies-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The phylogeography of Indoplanorbis exustus (Gastropoda: Planorbidae) in Asia</title>
+      <link>http://InfrPopGen.github.io/publication/liu-phylogeography-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/liu-phylogeography-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mekong Schistosomiasis: Where Did It Come from and Where Is It Going?</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-mekong-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-mekong-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-invasive methods for identifying oocysts of Sarcocystis spp. from definitive hosts</title>
+      <link>http://InfrPopGen.github.io/publication/xiang-non-invasive-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/xiang-non-invasive-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A study of DNA-sequence variation among Schistosoma mekongi (Trematoda: Digenea) populations and related taxa; phylogeography and the current distribution of Asian schistosomiasis</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-study-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-study-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular phylogenetics of Triculine snails (Gastropoda: Pomatiopsidae) from southern China</title>
+      <link>http://InfrPopGen.github.io/publication/guan-molecular-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/guan-molecular-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The distribution of Mekong schistosomiasis, past and future: preliminary indications from an analysis of genetic variation in the intermediate host</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-distribution-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-distribution-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A DNA sequence-based study of the Schistosoma indicum (Trematoda: Digenea) group: population phylogeny, taxonomy and historical biogeography</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-dna-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-dna-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of frozen storage on the structure of sarcocysts in pig muscle and implications in taxonomic studies</title>
+      <link>http://InfrPopGen.github.io/publication/chen-effects-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/chen-effects-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robertsiella silvicola, a new species of triculine snail (Caenogastropoda: Pomatiopsidae) from peninsular Malaysia, intermediate host of Schistosoma malayensis (Trematoda: Digenea)</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-robertsiella-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-robertsiella-2005/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A DNA-sequence based phylogeny for triculine snails (Gastropoda: Pomatiopsidae: Triculinae), intermediate hosts for Schistosoma (Trematoda: Digenea): phylogeography and the origin of Neotricula</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-dna-sequence-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-dna-sequence-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schistosomiasis in the Xe Kong river of Cambodia: the detection of Schistosoma mekongi in a natural population of snails and observations on intermediate host distribution</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-schistosomiasis-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-schistosomiasis-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new species of Tricula (Pomatiopsidae: Triculinae) from Sichuan Province, PR China: intermediate host of Schistosoma sinensium</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-new-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-new-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The phylogenetics of triculine snails (Rissooidea: Pomatiopsidae) from south-east Asia and southern China: historical biogeography and the transmission of human schistosomiasis</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-phylogenetics-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-phylogenetics-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The phylogeny of the Schistosomatidae based on three genes with emphasis on the interrelationships of Schistosoma Weinland, 1858</title>
+      <link>http://InfrPopGen.github.io/publication/lockyer-phylogeny-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/lockyer-phylogeny-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A PCR-based analysis of Sarcocystis cruzi (Protozoa: Scarcocystidae) in Yunnan Province, PR China, reveals the water buffalo (Bubalus bubalis) as a natural intermediate host</title>
+      <link>http://InfrPopGen.github.io/publication/li-pcr-based-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/li-pcr-based-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schistosoma ovuncatum n. sp. (Digenea: Schistosomatidae) from northwest Thailand and the historical biogeography of Southeast Asian Schistosoma Weinland, 1858</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-schistosoma-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-schistosoma-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The phylogeography of Asian Schistosoma (Trematoda: Schistosomatidae)</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-phylogeography-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-phylogeography-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nucleotide sequence differences reveal genetic variation in Neotricula aperta (Gastropoda: Pomatiopsidae), the snail host of schistosomiasis in the lower Mekong Basin</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-nucleotide-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-nucleotide-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schistosomiasis in the Mekong region: epidemiology and phylogeography</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-schistosomiasis-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-schistosomiasis-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The detection of Schistosoma mekongi infections in a natural population of Neotricula aperta at Khong Island, Laos, and the control of Mekong schistosomiasis</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-detection-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-detection-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The radular cusp formula of Neotricula aperta (Gastropoda: Pomatiopsidae): taxonomic questions</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-radular-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-radular-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new strain of Neotricula aperta found in Khammouanne Province, central Laos, and its compatibility with Schistosoma mekongi</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-new-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-new-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic variation in Neotricula aperta, the snail intermediate host of Schistosoma mekongi in the lower Mekong basin</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-genetic-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-genetic-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neotricula aperta (Gastropoda: Pomatiopsidae) the intermediate hosts of human Schistosoma mekongi: Allozyme variation and relationships between Khmer, Lao and Thai populations</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-neotricula-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-neotricula-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infectivity of a Cambodian isolate of Schistosoma mekongi to Neotricula aperta from Northeast Thailand</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-infectivity-1997/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-infectivity-1997/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changes in Neotricula b-aperta population density following construction of the Pak-Mul dam in Northeast Thailand, with implications for the transmission of schistosomiasis</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-changes-1996/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-changes-1996/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of grazing by Neotricula aperta (Gastropoda: Pomatiopsidae) on post-spate recovery of the algal aufwuchs in the lower Mekong river: Changes in standing crop and species diversity</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-impact-1996-1/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-impact-1996-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The impact of grazing by Neotricula aperta (Gastropoda: Pomatiopsidae) on post-spate recovery of the algal aufwuchs in the lower Mekong river: Changes in successional patterns and relative abundance of species</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-impact-1996/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-impact-1996/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A demographic analysis of y-Neotricula aperta (Gastropoda: Pomatiopsidae) populations in Thailand and southern Laos, in relation to the transmission of schistosomiasis</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-demographic-1995/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-demographic-1995/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Of dams and snails</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-dams-1995/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-dams-1995/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of substratum grade on the distribution of the freshwater snail y-Neotricula aperta (Temcharoen), with notes on the sizes of particles ingested</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-effect-1995/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-effect-1995/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uptake of acetate by Neotricula aperta (Gastropoda: Pomatiopsidae), the snail host of Schistosoma mekongi in the lower Mekong basin</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-uptake-1995/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-uptake-1995/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rates of recruitment among populations of the freshwater snail Neotricula aperta (Temcharoen) in North East Thailand</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-rates-1994/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-rates-1994/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

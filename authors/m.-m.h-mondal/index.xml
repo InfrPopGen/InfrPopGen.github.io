@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. M.H Mondal | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/authors/m.-m.h-mondal/</link>
+      <atom:link href="http://InfrPopGen.github.io/authors/m.-m.h-mondal/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. M.H Mondal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>M. M.H Mondal</title>
+      <link>http://InfrPopGen.github.io/authors/m.-m.h-mondal/</link>
+    </image>
+    
+    <item>
+      <title>A DNA sequence-based study of the Schistosoma indicum (Trematoda: Digenea) group: population phylogeny, taxonomy and historical biogeography</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-dna-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-dna-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

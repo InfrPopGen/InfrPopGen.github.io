@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Motomu Ibaraki | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/authors/motomu-ibaraki/</link>
+      <atom:link href="http://InfrPopGen.github.io/authors/motomu-ibaraki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Motomu Ibaraki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>Motomu Ibaraki</title>
+      <link>http://InfrPopGen.github.io/authors/motomu-ibaraki/</link>
+    </image>
+    
+    <item>
+      <title>Comparative Phylogenetic Studies on Schistosoma japonicum and Its Snail Intermediate Host Oncomelania hupensis: Origins, Dispersal and Coevolution</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-comparative-2015/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-comparative-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/tags/phylodynamics/</link>
+      <atom:link href="http://InfrPopGen.github.io/tags/phylodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Phylodynamics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Wed, 29 Apr 2015 17:16:55 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>Phylodynamics</title>
+      <link>http://InfrPopGen.github.io/tags/phylodynamics/</link>
+    </image>
+    
+    <item>
+      <title>A practical guide to estimating phylogenies for cancer</title>
+      <link>http://InfrPopGen.github.io/talk/phylogenies4cancer/</link>
+      <pubDate>Wed, 29 Apr 2015 17:16:55 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/talk/phylogenies4cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer Phylodynamics</title>
+      <link>http://InfrPopGen.github.io/talk/cancerphylodynamics/</link>
+      <pubDate>Thu, 06 Nov 2014 13:30:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/talk/cancerphylodynamics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

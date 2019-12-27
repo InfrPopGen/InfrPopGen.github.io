@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>infectivity | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/tags/infectivity/</link>
+      <atom:link href="http://InfrPopGen.github.io/tags/infectivity/index.xml" rel="self" type="application/rss+xml" />
+    <description>infectivity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Wed, 01 Jan 1997 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>infectivity</title>
+      <link>http://InfrPopGen.github.io/tags/infectivity/</link>
+    </image>
+    
+    <item>
+      <title>Infectivity of a Cambodian isolate of Schistosoma mekongi to Neotricula aperta from Northeast Thailand</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-infectivity-1997/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-infectivity-1997/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

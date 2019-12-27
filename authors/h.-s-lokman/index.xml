@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. S Lokman | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/authors/h.-s-lokman/</link>
+      <atom:link href="http://InfrPopGen.github.io/authors/h.-s-lokman/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. S Lokman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>H. S Lokman</title>
+      <link>http://InfrPopGen.github.io/authors/h.-s-lokman/</link>
+    </image>
+    
+    <item>
+      <title>Robertsiella silvicola, a new species of triculine snail (Caenogastropoda: Pomatiopsidae) from peninsular Malaysia, intermediate host of Schistosoma malayensis (Trematoda: Digenea)</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-robertsiella-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-robertsiella-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

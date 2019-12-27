@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>allozyme | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/tags/allozyme/</link>
+      <atom:link href="http://InfrPopGen.github.io/tags/allozyme/index.xml" rel="self" type="application/rss+xml" />
+    <description>allozyme</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Thu, 01 Jan 1998 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>allozyme</title>
+      <link>http://InfrPopGen.github.io/tags/allozyme/</link>
+    </image>
+    
+    <item>
+      <title>Neotricula aperta (Gastropoda: Pomatiopsidae) the intermediate hosts of human Schistosoma mekongi: Allozyme variation and relationships between Khmer, Lao and Thai populations</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-neotricula-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-neotricula-1998/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

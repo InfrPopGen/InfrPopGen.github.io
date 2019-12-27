@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/authors/</link>
+      <atom:link href="http://InfrPopGen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Sat, 21 Dec 2019 20:22:42 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>Authors</title>
+      <link>http://InfrPopGen.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>S.W. Attwood</title>
+      <link>http://InfrPopGen.github.io/authors/s.w.-attwood/</link>
+      <pubDate>Sat, 21 Dec 2019 20:22:42 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/s.w.-attwood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael J. Edel</title>
+      <link>http://InfrPopGen.github.io/authors/michael-j.-edel/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/michael-j.-edel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen W. Attwood</title>
+      <link>http://InfrPopGen.github.io/authors/stephen-w.-attwood/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/stephen-w.-attwood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://InfrPopGen.github.io/authors/admin/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a researcher with the &lt;a href=&#34;http://evolve.zoo.ox.ac.uk/Evolve/Home.html&#34;&gt;evolve.zoo lab&lt;/a&gt; in the Department of Zoology at the University of Oxford. My current research interests include cancer phylodynamics, pathogen population genetics, spatial genetics, and host-pathogen evolutionary relationships. Related interests include bioinformatics, oncology, and applications in translational medicine. I am currently supported by the European Union&#39;s &lt;a href=&#34;https://ec.europa.eu/programmes/horizon2020/&#34;&gt;European Research Council&lt;/a&gt; FP7 Ideas programme.&lt;/p&gt;
+&lt;p&gt;Prior to moving to Oxford I was based at the &lt;a href=&#34;https://www.nhm.ac.uk/our-science/departments-and-staff/staff-directory/stephen-attwood.html&#34;&gt;Natural History Museum&lt;/a&gt; in London working on the parasitic blood-fluke &lt;em&gt;Schistosoma&lt;/em&gt;. During this time I undertook many field expeditions, leading teams in remote areas of Laos, Cambodia, Malaysia and Indonesia. I later moved my focus to China, working on the Schistosomiasis Control Programme there. My parasitological work resulted in the discovery and naming of several new species and insights into the health and biodiversity &lt;a href=&#34;https://www.dw.com/en/a-dam-building-race-threatens-the-mekong-river/a-50049206&#34;&gt;impacts of hydro-power dams&lt;/a&gt; in the Mekong Basin. I identified two new foci of schistosomiasis transmission to humans in Cambodia and Laos, greatly expanding the &lt;a href=&#34;https://www.eurekalert.org/pub_releases/2008-03/plos-msi031408.php&#34;&gt;risk-map for Mekong schistosomiasis&lt;/a&gt; and was the first to report the transmission of this disease outside the Mekong river.&lt;/p&gt;
+&lt;p&gt;I began my postdoctoral career as an NERC Fellow, following this I was PI on three Project grants awarded to me by the Wellcome Trust. I also held a China National Science Foundation Project Grant, and numerous small awards. I have taught Molecular Ecology at &lt;a href=&#34;https://www.healthcareglobal.com/top10/top-10-largest-hospitals-world&#34;&gt;West China Medical School&lt;/a&gt;, and for a short time as a visitor at Kingston University (London).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Guan-Nan Huo</title>
+      <link>http://InfrPopGen.github.io/authors/guan-nan-huo/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/guan-nan-huo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Liang Liu</title>
+      <link>http://InfrPopGen.github.io/authors/liang-liu/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/liang-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hong-Bin He</title>
+      <link>http://InfrPopGen.github.io/authors/hong-bin-he/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/hong-bin-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel A. Janies</title>
+      <link>http://InfrPopGen.github.io/authors/daniel-a.-janies/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/daniel-a.-janies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motomu Ibaraki</title>
+      <link>http://InfrPopGen.github.io/authors/motomu-ibaraki/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/motomu-ibaraki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Naoko Nihei</title>
+      <link>http://InfrPopGen.github.io/authors/naoko-nihei/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/naoko-nihei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yasuhide Saitoh</title>
+      <link>http://InfrPopGen.github.io/authors/yasuhide-saitoh/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/yasuhide-saitoh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jian-Wen Qiu</title>
+      <link>http://InfrPopGen.github.io/authors/jian-wen-qiu/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/jian-wen-qiu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maud Cottet</title>
+      <link>http://InfrPopGen.github.io/authors/maud-cottet/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/maud-cottet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. W. Attwood</title>
+      <link>http://InfrPopGen.github.io/authors/s.-w.-attwood/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/s.-w.-attwood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjiang Zhou</title>
+      <link>http://InfrPopGen.github.io/authors/benjiang-zhou/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/benjiang-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. Suchart Upatham</title>
+      <link>http://InfrPopGen.github.io/authors/e.-suchart-upatham/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/e.-suchart-upatham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E Suchart Upatham</title>
+      <link>http://InfrPopGen.github.io/authors/e-suchart-upatham/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/e-suchart-upatham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen W Attwood</title>
+      <link>http://InfrPopGen.github.io/authors/stephen-w-attwood/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/stephen-w-attwood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Banchob Sripa</title>
+      <link>http://InfrPopGen.github.io/authors/banchob-sripa/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/banchob-sripa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>James V Conlan</title>
+      <link>http://InfrPopGen.github.io/authors/james-v-conlan/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/james-v-conlan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul N Newton</title>
+      <link>http://InfrPopGen.github.io/authors/paul-n-newton/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/paul-n-newton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephen Attwood</title>
+      <link>http://InfrPopGen.github.io/authors/stephen-attwood/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/stephen-attwood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fadjar Satrija</title>
+      <link>http://InfrPopGen.github.io/authors/fadjar-satrija/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/fadjar-satrija/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hakim Lokman</title>
+      <link>http://InfrPopGen.github.io/authors/hakim-lokman/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/hakim-lokman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jose Diaz</title>
+      <link>http://InfrPopGen.github.io/authors/jose-diaz/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/jose-diaz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohamed Idris</title>
+      <link>http://InfrPopGen.github.io/authors/mohamed-idris/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/mohamed-idris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammed Mondal</title>
+      <link>http://InfrPopGen.github.io/authors/mohammed-mondal/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/mohammed-mondal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRV Jayanthe Rajapakse</title>
+      <link>http://InfrPopGen.github.io/authors/prv-jayanthe-rajapakse/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/prv-jayanthe-rajapakse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin M. Rosenthal</title>
+      <link>http://InfrPopGen.github.io/authors/benjamin-m.-rosenthal/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/benjamin-m.-rosenthal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lijun Yang</title>
+      <link>http://InfrPopGen.github.io/authors/lijun-yang/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/lijun-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pengtao Luan</title>
+      <link>http://InfrPopGen.github.io/authors/pengtao-luan/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/pengtao-luan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Runsheng Jiang</title>
+      <link>http://InfrPopGen.github.io/authors/runsheng-jiang/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/runsheng-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xinwen Chen</title>
+      <link>http://InfrPopGen.github.io/authors/xinwen-chen/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/xinwen-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ya-ping Zhang</title>
+      <link>http://InfrPopGen.github.io/authors/ya-ping-zhang/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/ya-ping-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yangxian Zuo</title>
+      <link>http://InfrPopGen.github.io/authors/yangxian-zuo/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/yangxian-zuo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yongshu He</title>
+      <link>http://InfrPopGen.github.io/authors/yongshu-he/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/yongshu-he/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhaoqing Yang</title>
+      <link>http://InfrPopGen.github.io/authors/zhaoqing-yang/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/zhaoqing-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zheng Xiang</title>
+      <link>http://InfrPopGen.github.io/authors/zheng-xiang/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/zheng-xiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. O Niu</title>
+      <link>http://InfrPopGen.github.io/authors/a.-o-niu/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/a.-o-niu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>E. S Upatham</title>
+      <link>http://InfrPopGen.github.io/authors/e.-s-upatham/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/e.-s-upatham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. A Fatih</title>
+      <link>http://InfrPopGen.github.io/authors/f.-a-fatih/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/f.-a-fatih/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Guan</title>
+      <link>http://InfrPopGen.github.io/authors/f.-guan/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/f.-guan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. C Campbell</title>
+      <link>http://InfrPopGen.github.io/authors/i.-c-campbell/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/i.-c-campbell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Li YL</title>
+      <link>http://InfrPopGen.github.io/authors/li-yl/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/li-yl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. W Attwood</title>
+      <link>http://InfrPopGen.github.io/authors/s.-w-attwood/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/s.-w-attwood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. H Zhu</title>
+      <link>http://InfrPopGen.github.io/authors/y.-h-zhu/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/y.-h-zhu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhang B.</title>
+      <link>http://InfrPopGen.github.io/authors/zhang-b./</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/zhang-b./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ben-Jiang Zhou</title>
+      <link>http://InfrPopGen.github.io/authors/ben-jiang-zhou/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/ben-jiang-zhou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cui-Ying Li</title>
+      <link>http://InfrPopGen.github.io/authors/cui-ying-li/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/cui-ying-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. Rollinson</title>
+      <link>http://InfrPopGen.github.io/authors/d.-rollinson/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/d.-rollinson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lian-Yong Chen</title>
+      <link>http://InfrPopGen.github.io/authors/lian-yong-chen/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/lian-yong-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lin Lei</title>
+      <link>http://InfrPopGen.github.io/authors/lin-lei/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/lin-lei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. A Alim</title>
+      <link>http://InfrPopGen.github.io/authors/m.-a-alim/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/m.-a-alim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. M.H Mondal</title>
+      <link>http://InfrPopGen.github.io/authors/m.-m.h-mondal/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/m.-m.h-mondal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R. P.V.J Rajapakse</title>
+      <link>http://InfrPopGen.github.io/authors/r.-p.v.j-rajapakse/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/r.-p.v.j-rajapakse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Fadjar</title>
+      <link>http://InfrPopGen.github.io/authors/s.-fadjar/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/s.-fadjar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wen-Lin Wang</title>
+      <link>http://InfrPopGen.github.io/authors/wen-lin-wang/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/wen-lin-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiao-Dong Sun</title>
+      <link>http://InfrPopGen.github.io/authors/xiao-dong-sun/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/xiao-dong-sun/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zai-Xing Zhang</title>
+      <link>http://InfrPopGen.github.io/authors/zai-xing-zhang/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/zai-xing-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhao-Qing Yang</title>
+      <link>http://InfrPopGen.github.io/authors/zhao-qing-yang/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/zhao-qing-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>H. S Lokman</title>
+      <link>http://InfrPopGen.github.io/authors/h.-s-lokman/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/h.-s-lokman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>K. Y Ong</title>
+      <link>http://InfrPopGen.github.io/authors/k.-y-ong/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/k.-y-ong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. Campbell</title>
+      <link>http://InfrPopGen.github.io/authors/i.-campbell/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/i.-campbell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. R Southgate</title>
+      <link>http://InfrPopGen.github.io/authors/v.-r-southgate/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/v.-r-southgate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. -P Zhang</title>
+      <link>http://InfrPopGen.github.io/authors/y.-p-zhang/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/y.-p-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Z. -Q Yang</title>
+      <link>http://InfrPopGen.github.io/authors/z.-q-yang/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/z.-q-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. C Carmichael</title>
+      <link>http://InfrPopGen.github.io/authors/a.-c-carmichael/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/a.-c-carmichael/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A. E Lockyer</title>
+      <link>http://InfrPopGen.github.io/authors/a.-e-lockyer/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/a.-e-lockyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. A Johnston</title>
+      <link>http://InfrPopGen.github.io/authors/d.-a-johnston/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/d.-a-johnston/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. P McManus</title>
+      <link>http://InfrPopGen.github.io/authors/d.-p-mcmanus/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/d.-p-mcmanus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. S Brown</title>
+      <link>http://InfrPopGen.github.io/authors/d.-s-brown/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/d.-s-brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. T Littlewood</title>
+      <link>http://InfrPopGen.github.io/authors/d.-t-littlewood/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/d.-t-littlewood/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. -S Xu</title>
+      <link>http://InfrPopGen.github.io/authors/f.-s-xu/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/f.-s-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. D Olson</title>
+      <link>http://InfrPopGen.github.io/authors/p.-d-olson/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/p.-d-olson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Horak</title>
+      <link>http://InfrPopGen.github.io/authors/p.-horak/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/p.-horak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>P. Østergaard</title>
+      <link>http://InfrPopGen.github.io/authors/p.-%C3%B8stergaard/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/p.-%C3%B8stergaard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Ambu</title>
+      <link>http://InfrPopGen.github.io/authors/s.-ambu/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/s.-ambu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. D Snyder</title>
+      <link>http://InfrPopGen.github.io/authors/s.-d-snyder/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/s.-d-snyder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Naem</title>
+      <link>http://InfrPopGen.github.io/authors/s.-naem/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/s.-naem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. Agatsuma</title>
+      <link>http://InfrPopGen.github.io/authors/t.-agatsuma/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/t.-agatsuma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T. H Le</title>
+      <link>http://InfrPopGen.github.io/authors/t.-h-le/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/t.-h-le/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X. H Meng</title>
+      <link>http://InfrPopGen.github.io/authors/x.-h-meng/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/x.-h-meng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Panasoponkul</title>
+      <link>http://InfrPopGen.github.io/authors/c.-panasoponkul/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/c.-panasoponkul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>D. -C Qiu</title>
+      <link>http://InfrPopGen.github.io/authors/d.-c-qiu/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/d.-c-qiu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q. -Q Li</title>
+      <link>http://InfrPopGen.github.io/authors/q.-q-li/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/q.-q-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>X. -W Chen</title>
+      <link>http://InfrPopGen.github.io/authors/x.-w-chen/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/x.-w-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y. -X Zuo</title>
+      <link>http://InfrPopGen.github.io/authors/y.-x-zuo/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/y.-x-zuo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. Kitikoon</title>
+      <link>http://InfrPopGen.github.io/authors/v.-kitikoon/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/v.-kitikoon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

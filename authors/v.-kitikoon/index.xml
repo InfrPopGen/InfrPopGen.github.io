@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V. Kitikoon | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/authors/v.-kitikoon/</link>
+      <atom:link href="http://InfrPopGen.github.io/authors/v.-kitikoon/index.xml" rel="self" type="application/rss+xml" />
+    <description>V. Kitikoon</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Thu, 01 Jan 1998 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>V. Kitikoon</title>
+      <link>http://InfrPopGen.github.io/authors/v.-kitikoon/</link>
+    </image>
+    
+    <item>
+      <title>Neotricula aperta (Gastropoda: Pomatiopsidae) the intermediate hosts of human Schistosoma mekongi: Allozyme variation and relationships between Khmer, Lao and Thai populations</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-neotricula-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-neotricula-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infectivity of a Cambodian isolate of Schistosoma mekongi to Neotricula aperta from Northeast Thailand</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-infectivity-1997/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-infectivity-1997/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

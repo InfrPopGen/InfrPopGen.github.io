@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohamed Idris | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/authors/mohamed-idris/</link>
+      <atom:link href="http://InfrPopGen.github.io/authors/mohamed-idris/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mohamed Idris</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>Mohamed Idris</title>
+      <link>http://InfrPopGen.github.io/authors/mohamed-idris/</link>
+    </image>
+    
+    <item>
+      <title>The phylogeography of Indoplanorbis exustus (Gastropoda: Planorbidae) in Asia</title>
+      <link>http://InfrPopGen.github.io/publication/liu-phylogeography-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/liu-phylogeography-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

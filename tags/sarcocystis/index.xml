@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sarcocystis | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/tags/sarcocystis/</link>
+      <atom:link href="http://InfrPopGen.github.io/tags/sarcocystis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sarcocystis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>Sarcocystis</title>
+      <link>http://InfrPopGen.github.io/tags/sarcocystis/</link>
+    </image>
+    
+    <item>
+      <title>Effects of frozen storage on the structure of sarcocysts in pig muscle and implications in taxonomic studies</title>
+      <link>http://InfrPopGen.github.io/publication/chen-effects-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/chen-effects-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A PCR-based analysis of Sarcocystis cruzi (Protozoa: Scarcocystidae) in Yunnan Province, PR China, reveals the water buffalo (Bubalus bubalis) as a natural intermediate host</title>
+      <link>http://InfrPopGen.github.io/publication/li-pcr-based-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/li-pcr-based-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjiang Zhou | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/authors/benjiang-zhou/</link>
+      <atom:link href="http://InfrPopGen.github.io/authors/benjiang-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benjiang Zhou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>Benjiang Zhou</title>
+      <link>http://InfrPopGen.github.io/authors/benjiang-zhou/</link>
+    </image>
+    
+    <item>
+      <title>A phylogeny for the pomatiopsidae (Gastropoda: Rissooidea): a resource for taxonomic, parasitological and biodiversity studies</title>
+      <link>http://InfrPopGen.github.io/publication/liu-phylogeny-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/liu-phylogeny-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

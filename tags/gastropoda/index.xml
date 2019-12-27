@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gastropoda | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/tags/gastropoda/</link>
+      <atom:link href="http://InfrPopGen.github.io/tags/gastropoda/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gastropoda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>Gastropoda</title>
+      <link>http://InfrPopGen.github.io/tags/gastropoda/</link>
+    </image>
+    
+    <item>
+      <title>Update on the distribution and phylogenetics of Biomphalaria (Gastropoda: Planorbidae) populations in Guangdong Province, China</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-update-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-update-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nucleotide sequence differences reveal genetic variation in Neotricula aperta (Gastropoda: Pomatiopsidae), the snail host of schistosomiasis in the lower Mekong Basin</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-nucleotide-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-nucleotide-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

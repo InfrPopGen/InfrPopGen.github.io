@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schistosoma-mekongi | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/tags/schistosoma-mekongi/</link>
+      <atom:link href="http://InfrPopGen.github.io/tags/schistosoma-mekongi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Schistosoma-mekongi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>Schistosoma-mekongi</title>
+      <link>http://InfrPopGen.github.io/tags/schistosoma-mekongi/</link>
+    </image>
+    
+    <item>
+      <title>The detection of Schistosoma mekongi infections in a natural population of Neotricula aperta at Khong Island, Laos, and the control of Mekong schistosomiasis</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-detection-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-detection-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new strain of Neotricula aperta found in Khammouanne Province, central Laos, and its compatibility with Schistosoma mekongi</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-new-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-new-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetic variation in Neotricula aperta, the snail intermediate host of Schistosoma mekongi in the lower Mekong basin</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-genetic-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-genetic-1999/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neotricula aperta (Gastropoda: Pomatiopsidae) the intermediate hosts of human Schistosoma mekongi: Allozyme variation and relationships between Khmer, Lao and Thai populations</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-neotricula-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-neotricula-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infectivity of a Cambodian isolate of Schistosoma mekongi to Neotricula aperta from Northeast Thailand</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-infectivity-1997/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-infectivity-1997/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

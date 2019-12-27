@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephen W Attwood | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/authors/stephen-w-attwood/</link>
+      <atom:link href="http://InfrPopGen.github.io/authors/stephen-w-attwood/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephen W Attwood</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>Stephen W Attwood</title>
+      <link>http://InfrPopGen.github.io/authors/stephen-w-attwood/</link>
+    </image>
+    
+    <item>
+      <title>Observations on Neotricula aperta (Gastropoda: Pomatiopsidae) population densities in Thailand and central Laos: implications for the spread of Mekong schistosomiasis</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-observations-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-observations-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Studies on the parasitology, phylogeography and the evolution of host-parasite interactions for the snail intermediate hosts of medically important trematode genera in Southeast Asia</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-studies-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-studies-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

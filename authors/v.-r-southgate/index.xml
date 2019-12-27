@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>V. R Southgate | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/authors/v.-r-southgate/</link>
+      <atom:link href="http://InfrPopGen.github.io/authors/v.-r-southgate/index.xml" rel="self" type="application/rss+xml" />
+    <description>V. R Southgate</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>V. R Southgate</title>
+      <link>http://InfrPopGen.github.io/authors/v.-r-southgate/</link>
+    </image>
+    
+    <item>
+      <title>A DNA-sequence based phylogeny for triculine snails (Gastropoda: Pomatiopsidae: Triculinae), intermediate hosts for Schistosoma (Trematoda: Digenea): phylogeography and the origin of Neotricula</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-dna-sequence-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-dna-sequence-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new species of Tricula (Pomatiopsidae: Triculinae) from Sichuan Province, PR China: intermediate host of Schistosoma sinensium</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-new-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-new-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The phylogenetics of triculine snails (Rissooidea: Pomatiopsidae) from south-east Asia and southern China: historical biogeography and the transmission of human schistosomiasis</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-phylogenetics-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-phylogenetics-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The phylogeny of the Schistosomatidae based on three genes with emphasis on the interrelationships of Schistosoma Weinland, 1858</title>
+      <link>http://InfrPopGen.github.io/publication/lockyer-phylogeny-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/lockyer-phylogeny-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Schistosoma ovuncatum n. sp. (Digenea: Schistosomatidae) from northwest Thailand and the historical biogeography of Southeast Asian Schistosoma Weinland, 1858</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-schistosoma-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-schistosoma-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The phylogeography of Asian Schistosoma (Trematoda: Schistosomatidae)</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-phylogeography-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-phylogeography-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The detection of Schistosoma mekongi infections in a natural population of Neotricula aperta at Khong Island, Laos, and the control of Mekong schistosomiasis</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-detection-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-detection-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neotricula aperta (Gastropoda: Pomatiopsidae) the intermediate hosts of human Schistosoma mekongi: Allozyme variation and relationships between Khmer, Lao and Thai populations</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-neotricula-1998/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-neotricula-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infectivity of a Cambodian isolate of Schistosoma mekongi to Neotricula aperta from Northeast Thailand</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-infectivity-1997/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-infectivity-1997/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

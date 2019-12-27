@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regenerative Medicine | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/tags/regenerative-medicine/</link>
+      <atom:link href="http://InfrPopGen.github.io/tags/regenerative-medicine/index.xml" rel="self" type="application/rss+xml" />
+    <description>Regenerative Medicine</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Sat, 21 Dec 2019 17:58:37 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>Regenerative Medicine</title>
+      <link>http://InfrPopGen.github.io/tags/regenerative-medicine/</link>
+    </image>
+    
+    <item>
+      <title>Three Blind Mice See Again!</title>
+      <link>http://InfrPopGen.github.io/blog/3mice/</link>
+      <pubDate>Sat, 21 Dec 2019 17:58:37 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/blog/3mice/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://InfrPopGen.github.io/img/blindmice.png&#34; &gt;
+&lt;img src=&#34;http://InfrPopGen.github.io/img/blindmice.png&#34; alt=&#34;Blind Mice See Again&#34; width=&#34;200&#34; height=&#34;200&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;In blog post &lt;em&gt;&amp;ldquo;An Eye for Nature&amp;rdquo;&lt;/em&gt; we looked at artificial retina solutions for degenerative conditions like AMD that are common cause of blindness in humans. As a follow up I would like to mention a &lt;a href=&#34;https://www.nature.com/articles/s41467-019-09124-x&#34;&gt;2019 paper&lt;/a&gt; which offers an amazingly simple potential treatment for such retinal damge.&lt;/p&gt;
+&lt;p&gt;The authors noted that, whilst the &lt;a href=&#34;https://www.chemistryworld.com/podcasts/opsins/6108.article&#34;&gt;opsins&lt;/a&gt;, the protein part of light-sensitive receptors found in the &lt;a href=&#34;https://www.easybiologyclass.com/difference-between-rod-cells-and-cone-cells-comparison-table&#34;&gt;rod and cone cells&lt;/a&gt; of the human retina, are normally embedded in the molecular complex of the &lt;a href=&#34;https://en.wikipedia.org/wiki/G_protein-coupled_receptor&#34;&gt;G-protein-coupled-receptor signalling cascade&lt;/a&gt; that amplifies and moderates (through feedback loops) the signal from the photoreceptive pigments, these complexes are common to many kinds of cells not just rods and cones. They were also aware that although the rods and cones are lost in many retinal degenerative diseases, the main nerve cells of the retina, the &lt;a href=&#34;https://en.wikipedia.org/wiki/Retinal_ganglion_cell&#34;&gt;retinal ganglion cells&lt;/a&gt;, are not lost and remain active albeit insensitive to light. Putting these two facts together led them to ask the question, if we put the genes coding for a retinal photoreceptor into retinal ganglion cells might the opsins automatically integrate into the ganglions&amp;rsquo; G-protein signalling complexes, without the need to somehow transplant the entire opsin-signalling complex? To address this they used an &lt;a href=&#34;https://en.wikipedia.org/wiki/Adeno-associated_virus&#34;&gt;Adeno-Associated Virus&lt;/a&gt; (AAV) to carry the gene coding for green cone cell opsin into the genome of the retinal ganglion cells of blind mice. Although many neuroscientists would have said that this simple approach should not work, the experiment did in fact work. The blind mice were not only able to pass several of the tests used in humans to test eyesight (and were almost indistiguishable from normal mice in such tests), but their transformed ganglia even adjusted the photo-response according to the light level, turning the signal up in low light and down in bright light!&lt;/p&gt;
+&lt;p&gt;Although the findings appear miraculous, there is some way to go before this technique can be used to treat people. Although the AAV used specifically infects retinal ganglion cells, and so can be precisely targeted, there are issues of &lt;a href=&#34;https://en.wikipedia.org/wiki/Insertional_mutagenesis&#34;&gt;insertional mutagenesis&lt;/a&gt; because the viral genome can insert itself into the cells&amp;rsquo; genomes at random positions (this can potentially cause cancer or loss of essential gene function—for more on this see &lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5758940/&#34;&gt;this paper&lt;/a&gt;). The authors note that because the human eye contains thousands of times more ganglion cells than that of the mouse, much larger doses of AAV would be needed to treat a human. Nevertheless, AAV vectors have been FDA approved for use in human degenerative retinal conditions in cases where there is alternative treatment. The treatment might not be suitable for treatment of all retinal degenerative diseases because the retinal ganglion cells do not survive in all such conditions. In &lt;em&gt;[retinitis pigmentosa]&lt;/em&gt;(&lt;a href=&#34;https://www.rnib.org.uk/eye-health/eye-conditions/retinitis-pigmentosa&#34;&gt;https://www.rnib.org.uk/eye-health/eye-conditions/retinitis-pigmentosa&lt;/a&gt;), the target disease of these authors, 30% to 75% of these cells survive relative to normal eyes (for details see &lt;a href=&#34;https://iovs.arvojournals.org/article.aspx?articleid=2162046&#34;&gt;this paper&lt;/a&gt;, whereas in wet AMD over half of the cells are lost. In dry AMD the approach is most promising as cell survival in this case is as good as in normal eyes (for more see &lt;a href=&#34;https://iovs.arvojournals.org/article.aspx?articleid=2123592&#34;&gt;this paper&lt;/a&gt;); however, we need to consider that these cells are also lost with ageing and the conditions to be treated are mostly those of old age. Nevertheless, the finding has great potential in the treatment of retinal degenerative disease.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An Eye for Nature</title>
+      <link>http://InfrPopGen.github.io/blog/eye4nature/</link>
+      <pubDate>Tue, 10 Dec 2019 15:38:48 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/blog/eye4nature/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;http://InfrPopGen.github.io/img/softretina.jpg&#34; &gt;
+&lt;img src=&#34;http://InfrPopGen.github.io/img/softretina.jpg&#34; alt=&#34;Soft tissue synthetic retina&#34; width=&#34;200&#34; height=&#34;200&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Retinal degenerative disorders&lt;/strong&gt;, such as Age-Related Macular Degeneration (&lt;a href=&#34;https://www.macularsociety.org/age-related-macular-degeneration&#34;&gt;AMD&lt;/a&gt;), affect millions of people around the world. In the UK alone, AMD is the main cause of loss of sight, affecting over 600,000 people. In all of these disorders, the photoreceptor cells lining the retina at the back of the eye lose function, which leads to the loss of sight. Available treatments are at best capable of only slowing the degeneration in some individuals. The devastating impact of these disorders on human wellbeing and the lack of a cure have prompted researchers to seek radical solutions to the problem. The idea they came up with was to replace the damaged retina with an artificial one, and the development of such ‘bionic’ eyes has exploded into a wide range of devices and systems. The US Department of Energy even ran its own &lt;a href=&#34;https://science.energy.gov/ber/research/bssd/artificial-retina/&#34;&gt;Artificial Retina Project&lt;/a&gt; leading to the first clinical trial &lt;a href=&#34;https://www.2-sight.com/history-en.html&#34;&gt;Argus I&lt;/a&gt; in 2002 in which six patients received ‘bionic’ eye implants. By 2006, trials of the &lt;a href=&#34;https://www.artificialretina.energy.gov/about.shtml&#34;&gt;Argos II&lt;/a&gt; device had been carried out in 30 patients across Europe and the United States. By 2011 the device was approved for clinical use in Europe and by 2013 70 people had received these implants. Unfortunately, these retinal prosthetics use arrays of electrodes or photodiodes to convey small pulses of electricity to mimic the action of the lost retinal cells by stimulating the nerves of the retina; they are therefore limited by the density of photoreceptors and by the weight and bulk of the materials used. Consequently, these implants generate very low resolution images and are of benefit only to those with extensive sight loss.&lt;/p&gt;
+&lt;p&gt;Fortunately, a team at the University of Oxford’s &lt;a href=&#34;http://research.chem.ox.ac.uk/hagan-bayley.aspx&#34;&gt;Department of Chemistry&lt;/a&gt;, and led by Dphil student &lt;a href=&#34;http://bayley.chem.ox.ac.uk/vrestreposchild/&#34;&gt;Vanessa Restrepo-Schild&lt;/a&gt; stepped in with an innovative solution to many of the problems faced by these ‘digital camera’ style implants. Restrepo-Schild realised that the scarring and inflammation caused by such devices, which limited their utility, could be avoided by building a retina out of biological materials―using only materials that occur naturally in the eye. Consequently she set about building a photosensitive array similar to that of the retina from materials normally used in cell culture. The resulting implant would be not only less inflammatory, but also more soft and flexible to mimic better the original retina. Vanessa Restrepo-Schild realised that the &lt;a href=&#34;https://www.sciencealert.com/this-stretchy-drug-delivering-gel-could-be-the-band-aid-of-the-future&#34;&gt;hydrogels&lt;/a&gt; normally used in the laboratory had the right strength and flexibility for the job, but the team developed their own tailored gel for the purpose.&lt;/p&gt;
+&lt;p&gt;To emulate the light response function of the retina, they developed what they called ‘synthetic cells’, which were produced by arranging water droplets on the hydrogel in a lipid-containing oil. A lipid bilayer then formed naturally around each droplet, creating a ‘synthetic cell’. The cells were made photosensitive by adding the light-driven proton pump, &lt;a href=&#34;https://en.wikipedia.org/wiki/Bacteriorhodopsin&#34;&gt;bacteriorhodopsin&lt;/a&gt;, to the water droplets. In addition to flexibility and compatibility, the tiny water droplets can achieve arrays with greater pixel density than the ‘digital camera’ style devices. The approach is particularly neat because, as Restrepo-Schild points out, their synthetic retina already speaks the same language as the underlying nerve cells, and so should generate electrical impulses exactly as the real retina would. The impulses, when passed to the brain, are likely to be interpreted more readily as natural sight. Restrepo-Schild’s next step is to create, in fact print on their lab’s bespoke 3D printer, a 3D version of the device and observe how it communicates with nerve cells in tissue culture. The team is confident that they will soon have a system able to not only recognise colours, but also shapes and patterns, prior to preclinical testing and then clinical trials.&lt;/p&gt;
+&lt;p&gt;Restrepo-Schild cites her childhood fascination with the difference between the living and the machine as the source of her inspiration. She has long been pondering the idea of using parts of our own living bodies in devices that would not themselves be living, but would function as in vivo. We at Bang! are thankful that her childhood interests never faded, and rather proud that this potentially life changing research was done here, in Oxford.&lt;/p&gt;
+&lt;p&gt;Vanessa Restrepo-Schild is a student in the laboratory of Professor Hagan Bayley and their original research paper can be found here: &lt;a href=&#34;https://www.nature.com/articles/srep46585&#34;&gt;&lt;a href=&#34;http://www.nature.com/articles/srep46585&#34;&gt;www.nature.com/articles/srep46585&lt;/a&gt;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

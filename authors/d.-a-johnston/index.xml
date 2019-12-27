@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. A Johnston | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/authors/d.-a-johnston/</link>
+      <atom:link href="http://InfrPopGen.github.io/authors/d.-a-johnston/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. A Johnston</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>D. A Johnston</title>
+      <link>http://InfrPopGen.github.io/authors/d.-a-johnston/</link>
+    </image>
+    
+    <item>
+      <title>The phylogeny of the Schistosomatidae based on three genes with emphasis on the interrelationships of Schistosoma Weinland, 1858</title>
+      <link>http://InfrPopGen.github.io/publication/lockyer-phylogeny-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/lockyer-phylogeny-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nucleotide sequence differences reveal genetic variation in Neotricula aperta (Gastropoda: Pomatiopsidae), the snail host of schistosomiasis in the lower Mekong Basin</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-nucleotide-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-nucleotide-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

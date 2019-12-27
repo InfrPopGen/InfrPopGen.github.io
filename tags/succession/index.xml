@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>succession | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/tags/succession/</link>
+      <atom:link href="http://InfrPopGen.github.io/tags/succession/index.xml" rel="self" type="application/rss+xml" />
+    <description>succession</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Mon, 01 Jan 1996 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>succession</title>
+      <link>http://InfrPopGen.github.io/tags/succession/</link>
+    </image>
+    
+    <item>
+      <title>The impact of grazing by Neotricula aperta (Gastropoda: Pomatiopsidae) on post-spate recovery of the algal aufwuchs in the lower Mekong river: Changes in successional patterns and relative abundance of species</title>
+      <link>http://InfrPopGen.github.io/publication/attwood-impact-1996/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/attwood-impact-1996/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
