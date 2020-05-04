@@ -5,12 +5,36 @@
     <link>http://InfrPopGen.github.io/tags/</link>
       <atom:link href="http://InfrPopGen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Sat, 21 Dec 2019 20:22:42 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Mon, 04 May 2020 10:48:46 +0100</lastBuildDate>
     <image>
       <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
       <title>Tags</title>
       <link>http://InfrPopGen.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>epidemiology</title>
+      <link>http://InfrPopGen.github.io/tags/epidemiology/</link>
+      <pubDate>Mon, 04 May 2020 10:48:46 +0100</pubDate>
+      <guid>http://InfrPopGen.github.io/tags/epidemiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genomics</title>
+      <link>http://InfrPopGen.github.io/tags/genomics/</link>
+      <pubDate>Mon, 04 May 2020 10:48:46 +0100</pubDate>
+      <guid>http://InfrPopGen.github.io/tags/genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virology</title>
+      <link>http://InfrPopGen.github.io/tags/virology/</link>
+      <pubDate>Mon, 04 May 2020 10:48:46 +0100</pubDate>
+      <guid>http://InfrPopGen.github.io/tags/virology/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>editing</title>
@@ -393,14 +417,6 @@
       <link>http://InfrPopGen.github.io/tags/control/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>http://InfrPopGen.github.io/tags/control/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>epidemiology</title>
-      <link>http://InfrPopGen.github.io/tags/epidemiology/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://InfrPopGen.github.io/tags/epidemiology/</guid>
       <description></description>
     </item>
     

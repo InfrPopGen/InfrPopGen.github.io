@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Billie F. Norman | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/authors/billie-f.-norman/</link>
+      <atom:link href="http://InfrPopGen.github.io/authors/billie-f.-norman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Billie F. Norman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title>Billie F. Norman</title>
+      <link>http://InfrPopGen.github.io/authors/billie-f.-norman/</link>
+    </image>
+    
+    <item>
+      <title>Divergence across mitochondrial genomes of sympatric members of the Schistosoma indicum group and clues into the evolution of Schistosoma spindale</title>
+      <link>http://InfrPopGen.github.io/publication/jones-divergence-2020/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/jones-divergence-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

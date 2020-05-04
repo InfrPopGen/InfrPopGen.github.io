@@ -5,12 +5,28 @@
     <link>http://InfrPopGen.github.io/categories/</link>
       <atom:link href="http://InfrPopGen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Sat, 21 Dec 2019 20:22:42 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Mon, 04 May 2020 10:48:46 +0100</lastBuildDate>
     <image>
       <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
       <title>Categories</title>
       <link>http://InfrPopGen.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>epidemiology</title>
+      <link>http://InfrPopGen.github.io/categories/epidemiology/</link>
+      <pubDate>Mon, 04 May 2020 10:48:46 +0100</pubDate>
+      <guid>http://InfrPopGen.github.io/categories/epidemiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research Advance</title>
+      <link>http://InfrPopGen.github.io/categories/research-advance/</link>
+      <pubDate>Mon, 04 May 2020 10:48:46 +0100</pubDate>
+      <guid>http://InfrPopGen.github.io/categories/research-advance/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>professional activity</title>
@@ -33,14 +49,6 @@
       <link>http://InfrPopGen.github.io/categories/pre-clinical/</link>
       <pubDate>Sat, 21 Dec 2019 18:18:07 +0000</pubDate>
       <guid>http://InfrPopGen.github.io/categories/pre-clinical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research Advance</title>
-      <link>http://InfrPopGen.github.io/categories/research-advance/</link>
-      <pubDate>Sat, 21 Dec 2019 18:18:07 +0000</pubDate>
-      <guid>http://InfrPopGen.github.io/categories/research-advance/</guid>
       <description></description>
     </item>
     
