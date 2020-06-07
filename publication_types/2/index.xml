@@ -5,12 +5,20 @@
     <link>http://InfrPopGen.github.io/publication_types/2/</link>
       <atom:link href="http://InfrPopGen.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
       <title>2</title>
       <link>http://InfrPopGen.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>An integrated national scale SARS-CoV-2 genomic surveillance network</title>
+      <link>http://InfrPopGen.github.io/publication/the-covid-19-genomics-ukcogu-kconsortium-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/the-covid-19-genomics-ukcogu-kconsortium-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Divergence across mitochondrial genomes of sympatric members of the Schistosoma indicum group and clues into the evolution of Schistosoma spindale</title>

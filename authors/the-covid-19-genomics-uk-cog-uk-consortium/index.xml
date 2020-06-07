@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> The COVID-19 Genomics UK (COG-UK) consortium | Phylodynamics</title>
+    <link>http://InfrPopGen.github.io/authors/the-covid-19-genomics-uk-cog-uk-consortium/</link>
+      <atom:link href="http://InfrPopGen.github.io/authors/the-covid-19-genomics-uk-cog-uk-consortium/index.xml" rel="self" type="application/rss+xml" />
+    <description> The COVID-19 Genomics UK (COG-UK) consortium</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
+      <title> The COVID-19 Genomics UK (COG-UK) consortium</title>
+      <link>http://InfrPopGen.github.io/authors/the-covid-19-genomics-uk-cog-uk-consortium/</link>
+    </image>
+    
+    <item>
+      <title>An integrated national scale SARS-CoV-2 genomic surveillance network</title>
+      <link>http://InfrPopGen.github.io/publication/the-covid-19-genomics-ukcogu-kconsortium-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/publication/the-covid-19-genomics-ukcogu-kconsortium-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

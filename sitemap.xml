@@ -18,8 +18,38 @@
   </url>
   
   <url>
+    <loc>http://InfrPopGen.github.io/authors/the-covid-19-genomics-uk-cog-uk-consortium/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/publication_types/2/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/publication/the-covid-19-genomics-ukcogu-kconsortium-2020/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://InfrPopGen.github.io/authors/</loc>
-    <lastmod>2020-05-18T20:28:30+01:00</lastmod>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/publication_types/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/publication/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,12 +63,12 @@
   </url>
   
   <url>
-    <loc>http://InfrPopGen.github.io/tags/epidemiology/</loc>
+    <loc>http://InfrPopGen.github.io/categories/epidemiology/</loc>
     <lastmod>2020-05-18T20:28:30+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://InfrPopGen.github.io/categories/epidemiology/</loc>
+    <loc>http://InfrPopGen.github.io/tags/epidemiology/</loc>
     <lastmod>2020-05-18T20:28:30+01:00</lastmod>
   </url>
   
@@ -58,17 +88,12 @@
   </url>
   
   <url>
-    <loc>http://InfrPopGen.github.io/</loc>
+    <loc>http://InfrPopGen.github.io/categories/phylogenetics/</loc>
     <lastmod>2020-05-18T20:28:30+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://InfrPopGen.github.io/tags/phylogenetics/</loc>
-    <lastmod>2020-05-18T20:28:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://InfrPopGen.github.io/categories/phylogenetics/</loc>
     <lastmod>2020-05-18T20:28:30+01:00</lastmod>
   </url>
   
@@ -100,11 +125,6 @@
   <url>
     <loc>http://InfrPopGen.github.io/categories/research-advance/</loc>
     <lastmod>2020-05-04T10:48:46+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://InfrPopGen.github.io/publication_types/2/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -144,16 +164,6 @@
   
   <url>
     <loc>http://InfrPopGen.github.io/authors/p.-r.-v.-jayanthe-rajapakse/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://InfrPopGen.github.io/publication_types/</loc>
-    <lastmod>2020-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://InfrPopGen.github.io/publication/</loc>
     <lastmod>2020-02-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -208,12 +218,12 @@
   </url>
   
   <url>
-    <loc>http://InfrPopGen.github.io/tags/oncology/</loc>
+    <loc>http://InfrPopGen.github.io/categories/oncology/</loc>
     <lastmod>2019-12-21T18:18:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://InfrPopGen.github.io/categories/oncology/</loc>
+    <loc>http://InfrPopGen.github.io/tags/oncology/</loc>
     <lastmod>2019-12-21T18:18:07+00:00</lastmod>
   </url>
   
