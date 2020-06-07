@@ -18,6 +18,91 @@
   </url>
   
   <url>
+    <loc>http://InfrPopGen.github.io/authors/</loc>
+    <lastmod>2020-06-07T15:15:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/blog/</loc>
+    <lastmod>2020-06-07T15:15:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/categories/</loc>
+    <lastmod>2020-06-07T15:15:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/tags/evolution/</loc>
+    <lastmod>2020-06-07T15:15:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/blog/sars_evol_immunity/</loc>
+    <lastmod>2020-06-07T15:15:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/tags/genomics/</loc>
+    <lastmod>2020-06-07T15:15:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/tags/immunology/</loc>
+    <lastmod>2020-06-07T15:15:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/categories/immunology/</loc>
+    <lastmod>2020-06-07T15:15:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/</loc>
+    <lastmod>2020-06-07T15:15:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/categories/phylogenetics/</loc>
+    <lastmod>2020-06-07T15:15:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/tags/phylogenetics/</loc>
+    <lastmod>2020-06-07T15:15:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/authors/s.w.-attwood/</loc>
+    <lastmod>2020-06-07T15:15:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/tags/sars-cov-2/</loc>
+    <lastmod>2020-06-07T15:15:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/categories/synopsis/</loc>
+    <lastmod>2020-06-07T15:15:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/tags/</loc>
+    <lastmod>2020-06-07T15:15:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/tags/virology/</loc>
+    <lastmod>2020-06-07T15:15:04+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://InfrPopGen.github.io/categories/virology/</loc>
+    <lastmod>2020-06-07T15:15:04+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://InfrPopGen.github.io/authors/the-covid-19-genomics-uk-cog-uk-consortium/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -33,16 +118,6 @@
   </url>
   
   <url>
-    <loc>http://InfrPopGen.github.io/authors/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://InfrPopGen.github.io/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://InfrPopGen.github.io/publication_types/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -50,16 +125,6 @@
   <url>
     <loc>http://InfrPopGen.github.io/publication/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://InfrPopGen.github.io/blog/</loc>
-    <lastmod>2020-05-18T20:28:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://InfrPopGen.github.io/categories/</loc>
-    <lastmod>2020-05-18T20:28:30+01:00</lastmod>
   </url>
   
   <url>
@@ -73,47 +138,12 @@
   </url>
   
   <url>
-    <loc>http://InfrPopGen.github.io/tags/evolution/</loc>
-    <lastmod>2020-05-18T20:28:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://InfrPopGen.github.io/tags/genomics/</loc>
-    <lastmod>2020-05-18T20:28:30+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://InfrPopGen.github.io/blog/sars2_evolving/</loc>
     <lastmod>2020-05-18T20:28:30+01:00</lastmod>
   </url>
   
   <url>
-    <loc>http://InfrPopGen.github.io/categories/phylogenetics/</loc>
-    <lastmod>2020-05-18T20:28:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://InfrPopGen.github.io/tags/phylogenetics/</loc>
-    <lastmod>2020-05-18T20:28:30+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://InfrPopGen.github.io/categories/review/</loc>
-    <lastmod>2020-05-18T20:28:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://InfrPopGen.github.io/authors/s.w.-attwood/</loc>
-    <lastmod>2020-05-18T20:28:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://InfrPopGen.github.io/tags/</loc>
-    <lastmod>2020-05-18T20:28:30+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://InfrPopGen.github.io/tags/virology/</loc>
     <lastmod>2020-05-18T20:28:30+01:00</lastmod>
   </url>
   
@@ -218,12 +248,12 @@
   </url>
   
   <url>
-    <loc>http://InfrPopGen.github.io/categories/oncology/</loc>
+    <loc>http://InfrPopGen.github.io/tags/oncology/</loc>
     <lastmod>2019-12-21T18:18:07+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://InfrPopGen.github.io/tags/oncology/</loc>
+    <loc>http://InfrPopGen.github.io/categories/oncology/</loc>
     <lastmod>2019-12-21T18:18:07+00:00</lastmod>
   </url>
   

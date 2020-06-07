@@ -5,7 +5,7 @@
     <link>http://InfrPopGen.github.io/tags/</link>
       <atom:link href="http://InfrPopGen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Mon, 18 May 2020 20:28:30 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Sun, 07 Jun 2020 15:15:04 +0100</lastBuildDate>
     <image>
       <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
       <title>Tags</title>
@@ -13,17 +13,9 @@
     </image>
     
     <item>
-      <title>epidemiology</title>
-      <link>http://InfrPopGen.github.io/tags/epidemiology/</link>
-      <pubDate>Mon, 18 May 2020 20:28:30 +0100</pubDate>
-      <guid>http://InfrPopGen.github.io/tags/epidemiology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>evolution</title>
       <link>http://InfrPopGen.github.io/tags/evolution/</link>
-      <pubDate>Mon, 18 May 2020 20:28:30 +0100</pubDate>
+      <pubDate>Sun, 07 Jun 2020 15:15:04 +0100</pubDate>
       <guid>http://InfrPopGen.github.io/tags/evolution/</guid>
       <description></description>
     </item>
@@ -31,24 +23,48 @@
     <item>
       <title>genomics</title>
       <link>http://InfrPopGen.github.io/tags/genomics/</link>
-      <pubDate>Mon, 18 May 2020 20:28:30 +0100</pubDate>
+      <pubDate>Sun, 07 Jun 2020 15:15:04 +0100</pubDate>
       <guid>http://InfrPopGen.github.io/tags/genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>immunology</title>
+      <link>http://InfrPopGen.github.io/tags/immunology/</link>
+      <pubDate>Sun, 07 Jun 2020 15:15:04 +0100</pubDate>
+      <guid>http://InfrPopGen.github.io/tags/immunology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>phylogenetics</title>
       <link>http://InfrPopGen.github.io/tags/phylogenetics/</link>
-      <pubDate>Mon, 18 May 2020 20:28:30 +0100</pubDate>
+      <pubDate>Sun, 07 Jun 2020 15:15:04 +0100</pubDate>
       <guid>http://InfrPopGen.github.io/tags/phylogenetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SARS-CoV-2</title>
+      <link>http://InfrPopGen.github.io/tags/sars-cov-2/</link>
+      <pubDate>Sun, 07 Jun 2020 15:15:04 +0100</pubDate>
+      <guid>http://InfrPopGen.github.io/tags/sars-cov-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>virology</title>
       <link>http://InfrPopGen.github.io/tags/virology/</link>
-      <pubDate>Mon, 18 May 2020 20:28:30 +0100</pubDate>
+      <pubDate>Sun, 07 Jun 2020 15:15:04 +0100</pubDate>
       <guid>http://InfrPopGen.github.io/tags/virology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>epidemiology</title>
+      <link>http://InfrPopGen.github.io/tags/epidemiology/</link>
+      <pubDate>Mon, 18 May 2020 20:28:30 +0100</pubDate>
+      <guid>http://InfrPopGen.github.io/tags/epidemiology/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>http://InfrPopGen.github.io/authors/</link>
       <atom:link href="http://InfrPopGen.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Sun, 07 Jun 2020 15:15:04 +0100</lastBuildDate>
     <image>
       <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
       <title>Authors</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title> The COVID-19 Genomics UK (COG-UK) consortium</title>
-      <link>http://InfrPopGen.github.io/authors/the-covid-19-genomics-uk-cog-uk-consortium/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://InfrPopGen.github.io/authors/the-covid-19-genomics-uk-cog-uk-consortium/</guid>
+      <title>S.W. Attwood</title>
+      <link>http://InfrPopGen.github.io/authors/s.w.-attwood/</link>
+      <pubDate>Sun, 07 Jun 2020 15:15:04 +0100</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/s.w.-attwood/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>S.W. Attwood</title>
-      <link>http://InfrPopGen.github.io/authors/s.w.-attwood/</link>
-      <pubDate>Mon, 18 May 2020 20:28:30 +0100</pubDate>
-      <guid>http://InfrPopGen.github.io/authors/s.w.-attwood/</guid>
+      <title> The COVID-19 Genomics UK (COG-UK) consortium</title>
+      <link>http://InfrPopGen.github.io/authors/the-covid-19-genomics-uk-cog-uk-consortium/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://InfrPopGen.github.io/authors/the-covid-19-genomics-uk-cog-uk-consortium/</guid>
       <description></description>
     </item>
     

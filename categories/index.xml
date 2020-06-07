@@ -5,7 +5,7 @@
     <link>http://InfrPopGen.github.io/categories/</link>
       <atom:link href="http://InfrPopGen.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Mon, 18 May 2020 20:28:30 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© S.W. Attwood, 2019</copyright><lastBuildDate>Sun, 07 Jun 2020 15:15:04 +0100</lastBuildDate>
     <image>
       <url>http://InfrPopGen.github.io/img/ez01.jpg</url>
       <title>Categories</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
-      <title>epidemiology</title>
-      <link>http://InfrPopGen.github.io/categories/epidemiology/</link>
-      <pubDate>Mon, 18 May 2020 20:28:30 +0100</pubDate>
-      <guid>http://InfrPopGen.github.io/categories/epidemiology/</guid>
+      <title>immunology</title>
+      <link>http://InfrPopGen.github.io/categories/immunology/</link>
+      <pubDate>Sun, 07 Jun 2020 15:15:04 +0100</pubDate>
+      <guid>http://InfrPopGen.github.io/categories/immunology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>phylogenetics</title>
       <link>http://InfrPopGen.github.io/categories/phylogenetics/</link>
-      <pubDate>Mon, 18 May 2020 20:28:30 +0100</pubDate>
+      <pubDate>Sun, 07 Jun 2020 15:15:04 +0100</pubDate>
       <guid>http://InfrPopGen.github.io/categories/phylogenetics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synopsis</title>
+      <link>http://InfrPopGen.github.io/categories/synopsis/</link>
+      <pubDate>Sun, 07 Jun 2020 15:15:04 +0100</pubDate>
+      <guid>http://InfrPopGen.github.io/categories/synopsis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>virology</title>
+      <link>http://InfrPopGen.github.io/categories/virology/</link>
+      <pubDate>Sun, 07 Jun 2020 15:15:04 +0100</pubDate>
+      <guid>http://InfrPopGen.github.io/categories/virology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>epidemiology</title>
+      <link>http://InfrPopGen.github.io/categories/epidemiology/</link>
+      <pubDate>Mon, 18 May 2020 20:28:30 +0100</pubDate>
+      <guid>http://InfrPopGen.github.io/categories/epidemiology/</guid>
       <description></description>
     </item>
     
